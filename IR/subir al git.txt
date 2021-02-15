@@ -1,0 +1,73 @@
+Hp@DESKTOP-T6PEFHS MINGW64 ~/Desktop/Algoritmos_ de_computacion_grafica/semana13 (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        semana11/
+        semana12/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Hp@DESKTOP-T6PEFHS MINGW64 ~/Desktop/Algoritmos_ de_computacion_grafica/semana13 (master)
+$ git add .
+warning: LF will be replaced by CRLF in semana12/profe/codigotextura/bitmap.h.
+The file will have its original line endings in your working directory
+
+Hp@DESKTOP-T6PEFHS MINGW64 ~/Desktop/Algoritmos_ de_computacion_grafica/semana13 (master)
+$ git commit -m "semana 11 y 12"
+[master 43bd086] semana 11 y 12
+ 37 files changed, 2774 insertions(+)
+ create mode 100644 semana11/esfera con superficie de malla poligonal.cpp
+ create mode 100644 semana11/esfera con superficie de malla poligonal.exe
+ create mode 100644 semana11/tetrahedron.cpp
+ create mode 100644 semana11/tetrahedron.exe
+ create mode 100644 semana12/opcional.cpp
+ create mode 100644 semana12/profe/codigotextura.rar
+ create mode 100644 semana12/profe/codigotextura/asc.h.txt
+ create mode 100644 semana12/profe/codigotextura/bitmap.h
+ create mode 100644 semana12/profe/codigotextura/codigotextura/curso01.c
+ create mode 100644 semana12/profe/codigotextura/codigotextura/curso02.c
+ create mode 100644 semana12/profe/codigotextura/codigotextura/curso03.c
+ create mode 100644 semana12/profe/codigotextura/codigotextura/curso04.c
+ create mode 100644 semana12/profe/codigotextura/codigotextura/curso05.c
+ create mode 100644 semana12/profe/codigotextura/codigotextura/curso06.c
+ create mode 100644 semana12/profe/codigotextura/codigotextura/curso07.c
+ create mode 100644 semana12/profe/codigotextura/codigotextura/textura.tga
+ create mode 100644 semana12/profe/codigotextura/curso01.c
+ create mode 100644 semana12/profe/codigotextura/curso01.exe
+ create mode 100644 semana12/profe/codigotextura/curso02.c
+ create mode 100644 semana12/profe/codigotextura/curso02.exe
+ create mode 100644 semana12/profe/codigotextura/curso03.c
+ create mode 100644 semana12/profe/codigotextura/curso03.exe
+ create mode 100644 semana12/profe/codigotextura/curso04.c
+ create mode 100644 semana12/profe/codigotextura/curso04.exe
+ create mode 100644 semana12/profe/codigotextura/curso05.c
+ create mode 100644 semana12/profe/codigotextura/curso05.exe
+ create mode 100644 semana12/profe/codigotextura/curso06.c
+ create mode 100644 semana12/profe/codigotextura/curso06.exe
+ create mode 100644 semana12/profe/codigotextura/curso07.c
+ create mode 100644 semana12/profe/codigotextura/objeto.h.txt
+ create mode 100644 semana12/profe/codigotextura/opcional.cpp
+ create mode 100644 semana12/profe/codigotextura/opcional2.cpp
+ create mode 100644 semana12/profe/codigotextura/pregunta2.cpp
+ create mode 100644 semana12/profe/codigotextura/pregunta2.exe
+ create mode 100644 semana12/profe/codigotextura/textura.h.txt
+ create mode 100644 semana12/profe/codigotextura/textura.tga
+ create mode 100644 semana12/profe/codigotextura/tom.cpp
+
+Hp@DESKTOP-T6PEFHS MINGW64 ~/Desktop/Algoritmos_ de_computacion_grafica/semana13 (master)
+$ git push origin master
+Enumerating objects: 37, done.
+Counting objects: 100% (37/37), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (36/36), done.
+Writing objects: 100% (36/36), 270.09 KiB | 4.66 MiB/s, done.
+Total 36 (delta 16), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (16/16), completed with 1 local object.
+To https://github.com/eliasgomezflores/para_chavo.git
+   96e16b6..43bd086  master -> master
+
+Hp@DESKTOP-T6PEFHS MINGW64 ~/Desktop/Algoritmos_ de_computacion_grafica/semana13 (master)
+$
